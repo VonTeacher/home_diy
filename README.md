@@ -12,8 +12,6 @@
 - chain mesh & bottom metal bracket ???
 - fill fireplace/renovate to other purpose ???
 - repair mortar ???
-### Picture Frames
-- [ ] square up
 ---
 ## Indoor
 ### Bathroom (Downstairs)
