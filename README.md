@@ -1,11 +1,19 @@
 # Projects
 
 ## Time-based
+---
 ### Fireplace
-1. ~~remove grate~~
-2. ~~wet ashes & remove ashes~~
-3. ~~clear area for inspection on 8/10~~
+#### Inspection
+- [ ] ~~remove grate~~
+- [ ] ~~wet ashes & remove ashes~~
+- [ ] ~~clear area for inspection on 8/10~~
+
+*RESULTS OF INSPECTION*
+---
+#### Other
 - chain mesh ???
+- fill fireplace/renovate to other purpose?
+- repair mortar ???
 ### Picture Frames
 - square up
 ---
