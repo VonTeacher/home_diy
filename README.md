@@ -1,52 +1,51 @@
 # Projects
-
 ## Time-based
----
 ### Fireplace
-#### Inspection
-- [ ] ~~remove grate~~
-- [ ] ~~wet ashes & remove ashes~~
-- [ ] ~~clear area for inspection on 8/10~~
-
-*RESULTS OF INSPECTION*
+#### Fireplace Inspection Prep
+- [x] remove grate
+- [x] wet ashes & remove ashes
+- [x] clear area for inspection
+#### Fireplace Inspection Results (8/10)
+- TBD...
 ---
-#### Other
-- chain mesh ???
-- fill fireplace/renovate to other purpose?
+#### Fireplace Other
+- chain mesh & bottom metal bracket ???
+- fill fireplace/renovate to other purpose ???
 - repair mortar ???
 ### Picture Frames
-- square up
+- [ ] square up
 ---
 ## Indoor
 ### Bathroom (Downstairs)
-- test skim patch
+- [ ] test skim patch
 ### Bathroom (Upstairs)
-- seal waste pipe
+- [ ] seal waste pipe
 ### Bedroom - 2nd
-- donate camera equipment
-- raise curtains
-- recycle bubble wrap
+- [ ] research donation of camera equipment
+- [ ] raise curtains
+- [ ] recycle bubble wrap
 ### Closet
 #### Paint
-- sand
-- paint first coat
-- sand
-- paint second coat
+- [ ] hang plastic
+- [ ] sand
+- [ ] paint first coat
+- [ ] sand
+- [ ] paint second coat
 #### Other
-- threshold design
+- [ ] reserach threshold design
 ### Front Door
-- consider less grippy seal (felt?)
-- fill air gaps
-- re-secure bottom strip
+- [ ] consider less grippy seal (felt?)
+- [ ] fill air gaps
+- [ ] re-secure bottom strip
 ### Kitchen
 #### Measure
 ### Storage Room
-- identify and mark studs
-- identify and mark potential pipes
-- skim slanted wall
+- [ ] identify and mark studs
+- [ ] identify and mark potential pipes
+- [ ] skim slanted wall
 #### Cracks
-- backer material?
-- seal with foam
+- [ ] backer material ???
+- [ ] seal with foam
 ### General
-- disassemble and dispose of door on deck
+- [ ] disassemble and dispose of door on deck
 ## Outdoor
