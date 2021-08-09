@@ -20,7 +20,8 @@
 - [ ] seal waste pipe
 ### Bedroom - 2nd
 - [ ] research donation of camera equipment
-- [ ] raise curtains
+- [x] raise curtains
+- [x] prapre bubble wrap for transport
 - [ ] recycle bubble wrap
 ### Closet
 #### Paint
@@ -46,6 +47,4 @@
 - [ ] seal with foam
 ### General
 - [x] disassemble and dispose of door on deck
-- [x] transport recyclables to car
-- [ ] recycle center drop-off
 ## Outdoor
