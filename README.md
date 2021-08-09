@@ -24,19 +24,19 @@
 - [ ] recycle bubble wrap
 ### Closet
 #### Paint
-- [ ] hang plastic
-- [ ] sand
-- [ ] paint first coat
+- [x] sand
+- [x] paint first coat
 - [ ] sand
 - [ ] paint second coat
 #### Other
-- [ ] reserach threshold design
+- [ ] reserach transition board design
 ### Front Door
 - [ ] consider less grippy seal (felt?)
 - [ ] fill air gaps
 - [ ] re-secure bottom strip
 ### Kitchen
 #### Measure
+- [ ] continue layout in SketchUp
 ### Storage Room
 - [ ] identify and mark studs
 - [ ] identify and mark potential pipes
@@ -45,5 +45,7 @@
 - [ ] backer material ???
 - [ ] seal with foam
 ### General
-- [ ] disassemble and dispose of door on deck
+- [x] disassemble and dispose of door on deck
+- [x] transport recyclables to car
+- [ ] recycle center drop-off
 ## Outdoor
