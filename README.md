@@ -1,10 +1,6 @@
 # Projects
 ## Time-based
 ### Fireplace
-#### Fireplace Inspection Prep
-- [x] remove grate
-- [x] wet ashes & remove ashes
-- [x] clear area for inspection
 #### Fireplace Inspection Results (8/10)
 - TBD...
 ---
@@ -17,20 +13,16 @@
 ### Bathroom (Downstairs)
 - [ ] test skim patch
 ### Bathroom (Upstairs)
-- [ ] seal waste pipe
+- [x] seal waste pipe
 ### Bedroom - 2nd
 - [ ] research donation of camera equipment
 - [x] raise curtains
 - [x] prapre bubble wrap for transport
 - [ ] recycle bubble wrap
 ### Closet
-#### Paint
-- [x] sand
-- [x] paint first coat
-- [ ] sand
-- [ ] paint second coat
 #### Other
-- [ ] reserach transition board design
+- [ ] reserach threshold board design
+- [ ] research shelving/storage options & prices
 ### Front Door
 - [ ] consider less grippy seal (felt?)
 - [ ] fill air gaps
@@ -48,3 +40,13 @@
 ### General
 - [x] disassemble and dispose of door on deck
 ## Outdoor
+### Balcony
+- [x] strip paint
+- [x] sand
+- [x] patch
+- [ ] caulk
+- [ ] prime
+- [ ] sand
+- [ ] paint
+- [ ] sand
+- [ ] paint 
